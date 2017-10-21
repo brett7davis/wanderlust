@@ -1,3 +1,5 @@
+My End Goal for this project is to have a Google Maps feature that lets me click on a pin at each place I've been to see pictures and a recap.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
