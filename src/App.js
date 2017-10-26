@@ -12,40 +12,47 @@ class App extends Component {
         </header>
         <p className="App-intro">
           Tallinn </p>
-        <p white-text>
+          I went on a bus trip with Clarice, Pau, Miguel, and Mathilde through the Baltics. 
+        <p white-text> 
           <img src={"tallinn1.png"} className = "App-picture thin-black-border" alt=""/>
-          I went on a bus trip with Clarice, Pau, Miguel, and Mathilde through the Baltics.  
+          
         </p> 
         <p className="App-intro">
           Helsinki
           </p>
-          <p>
-          <img src={"finlandia.png"} className = "App-picture thin-black-border" alt=""/>
           I spent a weekend in Helsinki with Jackie.  The picture is the Sibelius Monument.  
           We went on a rowboat nearby after taking this picture.
+          <p>
+          <img src={"finlandia.png"} className = "App-picture thin-black-border" alt=""/>
+          
         </p>
         <p className ="App-intro">
         Budapest
         </p>
+          I visited Dhamma and his friends in Hungary.  The pic is the escape room we got out of.  (im in gas mask)
           <p>
         <img src={"buddy.png"} className = "App-picture thin-black-border" alt=""/>
         </p>
+
         <p className="App-intro">
-          Florence & Milan
+          Florence
           </p>
+            I flew in to Milan, and then I took the train to Florence the following day. 
           <p>
           <img src={"flo.png"} className = "App-picture thin-black-border" alt=""/>
         </p>
         <p className="App-intro">
           Bovec Valley
           </p>
-          <p>
+          I went white water kayaking in Slovenia with a group from TU Berlin.
+          <p> 
           <img src={"bov.png"} className = "App-picture thin-black-border" alt=""/>
         </p>
         <p className="App-intro">
           Chilean Patagonia
           </p>
-          <p>
+           I went sea kayaking with John Traendly, Eugina, Anna, and Brandi.
+          <p> 
           <img src={"chilli.png"} className = "App-picture thin-black-border" alt=""/>
         </p>
       </div>
